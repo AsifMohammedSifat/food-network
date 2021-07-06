@@ -162,7 +162,8 @@ font-size: 20px;
     height:70vh;
     width:80%;
     display: flex;
-    margin:5% 10% 10% 5%;
+    margin:5% 2% 10% 10%;
+
 }
 
 .min-contain{
@@ -170,7 +171,7 @@ font-size: 20px;
     height: auto;
     border:2px solid whitesmoke;
     border-radius: 20px;
-    margin-left: 20px;
+    margin-left: 50px;
     box-shadow: 0 0 40px 0;
 
 }
@@ -180,6 +181,7 @@ font-size: 20px;
     border-radius: 20px;
     padding:10px;
     height:40%;
+    margin-left: 15px;
 
 
 }
@@ -224,6 +226,7 @@ footer {
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     font-size: 10px;
 }
+
 
 
 
